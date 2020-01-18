@@ -73,7 +73,7 @@ body{
     font-style: normal;
     color: white;
     display: flexbox;
-    background-color: blueviolet;
+    background: linear-gradient(161.57deg, #9700C8 0%, #FF9F00 100%);
     margin: 0 5px 0 5px;
     padding: 0 6px 0 6px;
 }
